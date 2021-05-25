@@ -1,0 +1,25 @@
+[Adblock Plus 2.0]
+! Title: Saffronlist
+! Expires: 7 days
+! Source: https://raw.githubusercontent.com/saffronlist/saffronlist/master/hard.txt
+! License: The Unlicense (https://unlicense.org/)
+!
+!
+!
+||rss.org/^
+||bjp.org/^
+||organiser.org/^
+||abvp.org/^
+||vhp.org/^
+||bvpindia.com/^
+||bharatiyakisansangh.org/^
+||bms.org.in/^
+||ekal.org/^
+||hssus.org/^
+||muslimrashtriyamanch.org/^
+||sassbharath.org/^
+||sevabharathikeralam.in/^
+||swadeshionline.in/^
+||kalyanashram.org/^
+||vidyabharti.net/^
+||vrmvk.org/^
