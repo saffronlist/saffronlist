@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: Saffronlist
 ! Expires: 7 days
-! Source: https://raw.githubusercontent.com/saffronlist/saffronlist/master/hard.txt
+! Source: https://raw.githubusercontent.com/saffronlist/saffronlist/shade/hard.txt
 ! License: The Unlicense (https://unlicense.org/)
 !
 !
