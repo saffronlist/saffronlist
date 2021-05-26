@@ -29,7 +29,7 @@
 ||adanitransmission.com/^
 ||adanividyamandir.org/^
 ||adaniwilmar.com/^
-
+||ahmedabadmirror.com/^
 ||aiadmk.website/^
 ||ajio.com/^
 ||akashvijayvargiya.com/^
@@ -44,7 +44,7 @@
 ||ankurum.com/^
 ||archivesofrss.org/^
 ||arisebharat.com/^
-
+||artha.in/^
 ||arthaproperty.com/^
 ||artofliving.org/^
 ||arunjaitley.com/^
@@ -134,7 +134,7 @@
 ||easyday.in/^
 ||economictimes.com/^
 ||eisamay.com/^
-
+||ekal.org/^
 ||embibe.com/^
 ||enil.co.in/^
 ||esselgroup.com/^
