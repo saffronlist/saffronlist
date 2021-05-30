@@ -2,7 +2,7 @@
 ! Title: Saffronlist - All
 ! Description: A blocklist for saffron-free browsing.
 ! Homepage: https://saffronlist.github.io
-! Source: https://raw.githubusercontent.com/saffronlist/saffronlist/go/all.txt
+! Source: https://raw.githubusercontent.com/saffronlist/saffronlist/go/filter-all.txt
 ! License: The Unlicense (https://unlicense.org/)
 !
 !
