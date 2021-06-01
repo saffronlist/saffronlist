@@ -1,16 +1,15 @@
-### Hi there 👋
+# Saffronlist
+## A list for saffron-free browsing. 
 
-<!--
-**saffronlist/saffronlist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Filterlist
+_Works with most ad-blocking extensions/add-ons and apps_  
+https://raw.githubusercontent.com/saffronlist/saffronlist/go/filter-all.txt
 
-Here are some ideas to get you started:
+### Blocklist 
+_Works with Pi-hole_  
+https://raw.githubusercontent.com/saffronlist/saffronlist/go/block-all.txt
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## WARNING
+The list is __aggressive__.  
+It completely blocks access to **1007 domains** and **1 TLD**.  
+Depending on how it's used, you may or may not get a notification.  
