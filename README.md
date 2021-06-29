@@ -16,5 +16,5 @@ https://raw.githubusercontent.com/saffronlist/saffronlist/go/hosts-all.txt
 ## WARNING
 The list is **aggressive**.  
 It can and will **break stuff**.  
-It completely blocks access to **1228 domains** and **3 TLDs**.  
+It completely blocks access to **1344 domains** and **3 TLDs**.  
 Depending on how it's used, you may or may not get a notification.  
